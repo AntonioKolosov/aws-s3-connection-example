@@ -1,0 +1,6 @@
+.*venv/
+.vscode/
+.env
+bin/
+**__pycache__/
+metadata/
