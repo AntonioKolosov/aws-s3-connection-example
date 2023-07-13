@@ -1,6 +1,8 @@
+.aws
 .*venv/
 .vscode/
 .env
 bin/
 **__pycache__/
 metadata/
+secret_keys.py
